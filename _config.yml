@@ -25,7 +25,6 @@ twitter_username: evrenkutar
 github_username:  evrenkutar
 
 # Build settings
-markdown: redcarpet
 theme: minima
 plugins:
   - jekyll-feed
